@@ -4,4 +4,4 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bin2bin)](https://github.com/bin2bin/github-readme-stats)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bin2bin&repo=github-readme-stats)](https://github.com/bin2bin/github-readme-stats)
+
