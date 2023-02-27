@@ -1,2 +1,4 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20😎&animation=twinkling@fontSize=35&fontAlignY=40&
+          fontAlign=70&height=250 />
+          
