@@ -4,4 +4,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bin2bin&repo=github-readme-stats)](https://github.com/bin2bin/github-readme-stats)
 
-repo=github-readme-stats
